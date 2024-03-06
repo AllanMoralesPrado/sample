@@ -11,3 +11,8 @@ body, html{
     color:brown;
     text-align: center;
 }
+
+.lista-de-objetos{
+    display: flex;
+    justify-content: center;
+}
